@@ -1,0 +1,53 @@
+{
+  "Random Forest": {
+    "accuracy": 0.966,
+    "f1": 0.9660678642714571,
+    "confusion_matrix": [
+      [
+        482,
+        15
+      ],
+      [
+        19,
+        484
+      ]
+    ]
+  },
+  "Logistic Regression": {
+    "accuracy": 0.882,
+    "f1": 0.8838582677165354,
+    "confusion_matrix": [
+      [
+        433,
+        64
+      ],
+      [
+        54,
+        449
+      ]
+    ]
+  },
+  "checks": [
+    "Original model bytes retained",
+    "Both predictive pipelines match notebook test accuracy",
+    "Probability rows finite and sum to 1",
+    "Cluster assignments match original training labels and churn counts",
+    "No customer-level rows included in deployment package"
+  ],
+  "application_checks": [
+    "All six pages passed Streamlit AppTest in a fresh Python 3.12 virtual environment",
+    "Prediction form submitted successfully using the original RF pipeline",
+    "All seven segment selections passed",
+    "All five EDA category selections passed",
+    "Full/training cohort, plan and region filters passed",
+    "pip check: no broken requirements found"
+  ],
+  "deployment_status": "Not deployed; Community Cloud verification is pending.",
+  "browser_visual_check": "Not completed: headless browser execution was unavailable in this environment.",
+  "python_version": "3.12.14",
+  "model_sha256": {
+    "random_forest_pipeline.joblib": "29f778d9ba2aa6f4f27a8abdf3aa632a3b95dead5f9b34720877708de01d0388",
+    "logistic_regression_pipeline.joblib": "6d0ede66f5f9081cf0f8bcd67fa2260bd2e112a05886126e45acaa75ecbd9948",
+    "clustering_bundle.joblib": "aad0a3f9a823a08c589bf705f922bd6af8c80b309f6024c36ecfce2ec7e63d8f"
+  }
+}

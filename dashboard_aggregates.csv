@@ -1,0 +1,937 @@
+scope,plan,region,category,value,customers,churned,watch_sum
+full,Basic,Africa,All,All,260,160,2854.62
+full,Basic,Africa,gender,Female,103,61,1043.66
+full,Basic,Africa,gender,Male,77,52,832.0500000000002
+full,Basic,Africa,gender,Other,80,47,978.9100000000001
+full,Basic,Africa,device,Desktop,44,26,638.9000000000001
+full,Basic,Africa,device,Laptop,54,36,609.8599999999999
+full,Basic,Africa,device,Mobile,54,29,628.0600000000001
+full,Basic,Africa,device,TV,52,30,528.75
+full,Basic,Africa,device,Tablet,56,39,449.05
+full,Basic,Africa,payment_method,Credit Card,47,30,504.03
+full,Basic,Africa,payment_method,Crypto,50,29,557.2400000000001
+full,Basic,Africa,payment_method,Debit Card,49,28,565.82
+full,Basic,Africa,payment_method,Gift Card,50,32,521.2900000000001
+full,Basic,Africa,payment_method,PayPal,64,41,706.24
+full,Basic,Africa,favorite_genre,Action,37,23,333.03
+full,Basic,Africa,favorite_genre,Comedy,46,23,549.1000000000001
+full,Basic,Africa,favorite_genre,Documentary,43,32,406.7299999999999
+full,Basic,Africa,favorite_genre,Drama,34,25,252.82999999999998
+full,Basic,Africa,favorite_genre,Horror,37,18,515.94
+full,Basic,Africa,favorite_genre,Romance,32,18,480.59
+full,Basic,Africa,favorite_genre,Sci-Fi,31,21,316.4
+full,Basic,Africa,number_of_profiles,1,53,34,709.9600000000002
+full,Basic,Africa,number_of_profiles,2,53,30,492.57
+full,Basic,Africa,number_of_profiles,3,48,34,383.0
+full,Basic,Africa,number_of_profiles,4,53,27,641.47
+full,Basic,Africa,number_of_profiles,5,53,35,627.62
+full,Basic,Asia,All,All,285,172,3188.7799999999997
+full,Basic,Asia,gender,Female,105,62,1292.6300000000003
+full,Basic,Asia,gender,Male,78,48,918.4499999999999
+full,Basic,Asia,gender,Other,102,62,977.6999999999999
+full,Basic,Asia,device,Desktop,52,36,627.2500000000001
+full,Basic,Asia,device,Laptop,64,35,727.02
+full,Basic,Asia,device,Mobile,48,30,384.46000000000004
+full,Basic,Asia,device,TV,70,42,859.0700000000002
+full,Basic,Asia,device,Tablet,51,29,590.98
+full,Basic,Asia,payment_method,Credit Card,52,30,684.0600000000001
+full,Basic,Asia,payment_method,Crypto,60,42,563.0999999999999
+full,Basic,Asia,payment_method,Debit Card,61,31,645.2500000000001
+full,Basic,Asia,payment_method,Gift Card,49,31,637.6999999999999
+full,Basic,Asia,payment_method,PayPal,63,38,658.67
+full,Basic,Asia,favorite_genre,Action,37,25,348.84
+full,Basic,Asia,favorite_genre,Comedy,46,29,459.94999999999993
+full,Basic,Asia,favorite_genre,Documentary,33,20,578.08
+full,Basic,Asia,favorite_genre,Drama,38,22,444.45
+full,Basic,Asia,favorite_genre,Horror,46,31,359.6
+full,Basic,Asia,favorite_genre,Romance,47,20,628.5000000000001
+full,Basic,Asia,favorite_genre,Sci-Fi,38,25,369.36
+full,Basic,Asia,number_of_profiles,1,51,36,538.0099999999999
+full,Basic,Asia,number_of_profiles,2,68,38,748.2800000000001
+full,Basic,Asia,number_of_profiles,3,56,41,502.69999999999993
+full,Basic,Asia,number_of_profiles,4,60,28,801.4000000000001
+full,Basic,Asia,number_of_profiles,5,50,29,598.39
+full,Basic,Europe,All,All,284,178,3433.42
+full,Basic,Europe,gender,Female,95,62,1145.6300000000003
+full,Basic,Europe,gender,Male,101,68,1102.5799999999997
+full,Basic,Europe,gender,Other,88,48,1185.21
+full,Basic,Europe,device,Desktop,51,34,591.4199999999998
+full,Basic,Europe,device,Laptop,50,33,465.01
+full,Basic,Europe,device,Mobile,66,41,921.7400000000001
+full,Basic,Europe,device,TV,68,35,959.3199999999998
+full,Basic,Europe,device,Tablet,49,35,495.92999999999995
+full,Basic,Europe,payment_method,Credit Card,74,41,942.92
+full,Basic,Europe,payment_method,Crypto,45,30,523.27
+full,Basic,Europe,payment_method,Debit Card,53,33,718.8
+full,Basic,Europe,payment_method,Gift Card,50,35,507.51
+full,Basic,Europe,payment_method,PayPal,62,39,740.9200000000001
+full,Basic,Europe,favorite_genre,Action,48,32,561.42
+full,Basic,Europe,favorite_genre,Comedy,26,16,316.15000000000003
+full,Basic,Europe,favorite_genre,Documentary,39,25,483.26
+full,Basic,Europe,favorite_genre,Drama,43,27,449.27000000000004
+full,Basic,Europe,favorite_genre,Horror,40,27,468.36
+full,Basic,Europe,favorite_genre,Romance,39,23,552.79
+full,Basic,Europe,favorite_genre,Sci-Fi,49,28,602.1700000000001
+full,Basic,Europe,number_of_profiles,1,47,31,603.6099999999998
+full,Basic,Europe,number_of_profiles,2,70,46,819.6
+full,Basic,Europe,number_of_profiles,3,59,39,727.6700000000001
+full,Basic,Europe,number_of_profiles,4,56,29,689.3399999999999
+full,Basic,Europe,number_of_profiles,5,52,33,593.1999999999999
+full,Basic,North America,All,All,290,178,3378.63
+full,Basic,North America,gender,Female,108,64,1218.2800000000002
+full,Basic,North America,gender,Male,89,58,1063.1999999999998
+full,Basic,North America,gender,Other,93,56,1097.15
+full,Basic,North America,device,Desktop,51,28,604.3100000000001
+full,Basic,North America,device,Laptop,58,42,654.7900000000001
+full,Basic,North America,device,Mobile,60,37,696.1800000000001
+full,Basic,North America,device,TV,56,35,690.85
+full,Basic,North America,device,Tablet,65,36,732.5000000000001
+full,Basic,North America,payment_method,Credit Card,55,34,647.0000000000001
+full,Basic,North America,payment_method,Crypto,46,25,562.7799999999999
+full,Basic,North America,payment_method,Debit Card,66,42,706.65
+full,Basic,North America,payment_method,Gift Card,58,37,739.9799999999999
+full,Basic,North America,payment_method,PayPal,65,40,722.22
+full,Basic,North America,favorite_genre,Action,49,29,495.57
+full,Basic,North America,favorite_genre,Comedy,46,27,592.08
+full,Basic,North America,favorite_genre,Documentary,42,25,455.26
+full,Basic,North America,favorite_genre,Drama,37,24,364.0800000000001
+full,Basic,North America,favorite_genre,Horror,39,25,499.91
+full,Basic,North America,favorite_genre,Romance,37,20,528.49
+full,Basic,North America,favorite_genre,Sci-Fi,40,28,443.24
+full,Basic,North America,number_of_profiles,1,53,36,564.5
+full,Basic,North America,number_of_profiles,2,67,40,614.9699999999998
+full,Basic,North America,number_of_profiles,3,47,30,653.85
+full,Basic,North America,number_of_profiles,4,60,34,733.66
+full,Basic,North America,number_of_profiles,5,63,38,811.6499999999999
+full,Basic,Oceania,All,All,242,151,2834.9800000000005
+full,Basic,Oceania,gender,Female,92,58,1101.63
+full,Basic,Oceania,gender,Male,63,44,631.5100000000002
+full,Basic,Oceania,gender,Other,87,49,1101.84
+full,Basic,Oceania,device,Desktop,43,26,655.29
+full,Basic,Oceania,device,Laptop,45,30,455.15
+full,Basic,Oceania,device,Mobile,49,33,469.34
+full,Basic,Oceania,device,TV,41,25,572.33
+full,Basic,Oceania,device,Tablet,64,37,682.87
+full,Basic,Oceania,payment_method,Credit Card,56,35,550.37
+full,Basic,Oceania,payment_method,Crypto,41,26,418.94
+full,Basic,Oceania,payment_method,Debit Card,55,32,677.9700000000001
+full,Basic,Oceania,payment_method,Gift Card,41,27,584.72
+full,Basic,Oceania,payment_method,PayPal,49,31,602.98
+full,Basic,Oceania,favorite_genre,Action,40,24,453.03999999999996
+full,Basic,Oceania,favorite_genre,Comedy,26,15,358.02
+full,Basic,Oceania,favorite_genre,Documentary,31,19,325.38
+full,Basic,Oceania,favorite_genre,Drama,39,28,438.4
+full,Basic,Oceania,favorite_genre,Horror,29,18,288.16999999999996
+full,Basic,Oceania,favorite_genre,Romance,47,29,556.12
+full,Basic,Oceania,favorite_genre,Sci-Fi,30,18,415.84999999999997
+full,Basic,Oceania,number_of_profiles,1,50,37,548.6199999999999
+full,Basic,Oceania,number_of_profiles,2,50,28,608.0600000000001
+full,Basic,Oceania,number_of_profiles,3,52,34,550.77
+full,Basic,Oceania,number_of_profiles,4,43,26,542.4000000000001
+full,Basic,Oceania,number_of_profiles,5,47,26,585.1300000000001
+full,Basic,South America,All,All,300,188,3516.59
+full,Basic,South America,gender,Female,103,62,1276.37
+full,Basic,South America,gender,Male,97,65,1077.52
+full,Basic,South America,gender,Other,100,61,1162.7000000000003
+full,Basic,South America,device,Desktop,45,27,611.33
+full,Basic,South America,device,Laptop,56,39,581.05
+full,Basic,South America,device,Mobile,65,38,826.17
+full,Basic,South America,device,TV,62,37,781.2600000000001
+full,Basic,South America,device,Tablet,72,47,716.7800000000001
+full,Basic,South America,payment_method,Credit Card,61,35,639.02
+full,Basic,South America,payment_method,Crypto,58,36,701.79
+full,Basic,South America,payment_method,Debit Card,54,37,516.2099999999999
+full,Basic,South America,payment_method,Gift Card,69,43,1002.3199999999999
+full,Basic,South America,payment_method,PayPal,58,37,657.2500000000001
+full,Basic,South America,favorite_genre,Action,42,28,434.64
+full,Basic,South America,favorite_genre,Comedy,46,31,590.5699999999999
+full,Basic,South America,favorite_genre,Documentary,43,25,443.9100000000001
+full,Basic,South America,favorite_genre,Drama,44,26,573.9699999999999
+full,Basic,South America,favorite_genre,Horror,33,23,345.58
+full,Basic,South America,favorite_genre,Romance,56,35,666.0699999999999
+full,Basic,South America,favorite_genre,Sci-Fi,36,20,461.8499999999999
+full,Basic,South America,number_of_profiles,1,62,44,728.4999999999999
+full,Basic,South America,number_of_profiles,2,58,38,677.65
+full,Basic,South America,number_of_profiles,3,60,33,739.98
+full,Basic,South America,number_of_profiles,4,51,34,516.61
+full,Basic,South America,number_of_profiles,5,69,39,853.85
+full,Premium,Africa,All,All,267,101,3323.3599999999997
+full,Premium,Africa,gender,Female,75,28,948.4300000000001
+full,Premium,Africa,gender,Male,87,29,1025.81
+full,Premium,Africa,gender,Other,105,44,1349.12
+full,Premium,Africa,device,Desktop,57,19,610.0099999999999
+full,Premium,Africa,device,Laptop,57,20,849.2099999999999
+full,Premium,Africa,device,Mobile,43,20,594.1299999999999
+full,Premium,Africa,device,TV,62,24,808.7299999999998
+full,Premium,Africa,device,Tablet,48,18,461.28000000000003
+full,Premium,Africa,payment_method,Credit Card,53,19,555.63
+full,Premium,Africa,payment_method,Crypto,51,25,740.83
+full,Premium,Africa,payment_method,Debit Card,59,17,684.21
+full,Premium,Africa,payment_method,Gift Card,57,27,840.27
+full,Premium,Africa,payment_method,PayPal,47,13,502.42
+full,Premium,Africa,favorite_genre,Action,37,15,413.2300000000001
+full,Premium,Africa,favorite_genre,Comedy,37,13,459.78000000000003
+full,Premium,Africa,favorite_genre,Documentary,54,22,669.5999999999999
+full,Premium,Africa,favorite_genre,Drama,45,19,613.0000000000001
+full,Premium,Africa,favorite_genre,Horror,34,11,362.67999999999995
+full,Premium,Africa,favorite_genre,Romance,31,13,446.69
+full,Premium,Africa,favorite_genre,Sci-Fi,29,8,358.38000000000005
+full,Premium,Africa,number_of_profiles,1,39,15,476.97
+full,Premium,Africa,number_of_profiles,2,59,29,738.92
+full,Premium,Africa,number_of_profiles,3,46,22,607.81
+full,Premium,Africa,number_of_profiles,4,52,20,648.9899999999999
+full,Premium,Africa,number_of_profiles,5,71,15,850.6699999999998
+full,Premium,Asia,All,All,274,117,3178.15
+full,Premium,Asia,gender,Female,77,34,1042.71
+full,Premium,Asia,gender,Male,102,38,1039.26
+full,Premium,Asia,gender,Other,95,45,1096.1799999999998
+full,Premium,Asia,device,Desktop,58,28,673.0699999999999
+full,Premium,Asia,device,Laptop,52,24,551.43
+full,Premium,Asia,device,Mobile,51,25,561.3500000000001
+full,Premium,Asia,device,TV,60,20,744.62
+full,Premium,Asia,device,Tablet,53,20,647.6800000000001
+full,Premium,Asia,payment_method,Credit Card,43,13,444.04
+full,Premium,Asia,payment_method,Crypto,58,34,753.1100000000001
+full,Premium,Asia,payment_method,Debit Card,66,18,861.25
+full,Premium,Asia,payment_method,Gift Card,50,31,418.95
+full,Premium,Asia,payment_method,PayPal,57,21,700.8
+full,Premium,Asia,favorite_genre,Action,36,14,389.47
+full,Premium,Asia,favorite_genre,Comedy,42,18,528.79
+full,Premium,Asia,favorite_genre,Documentary,39,21,404.94999999999993
+full,Premium,Asia,favorite_genre,Drama,41,22,425.96999999999997
+full,Premium,Asia,favorite_genre,Horror,43,16,575.29
+full,Premium,Asia,favorite_genre,Romance,32,13,361.65000000000003
+full,Premium,Asia,favorite_genre,Sci-Fi,41,13,492.03000000000003
+full,Premium,Asia,number_of_profiles,1,45,26,576.5399999999998
+full,Premium,Asia,number_of_profiles,2,59,29,631.3000000000001
+full,Premium,Asia,number_of_profiles,3,45,24,492.6
+full,Premium,Asia,number_of_profiles,4,64,16,783.4
+full,Premium,Asia,number_of_profiles,5,61,22,694.3100000000002
+full,Premium,Europe,All,All,289,127,3254.58
+full,Premium,Europe,gender,Female,102,45,1214.8299999999997
+full,Premium,Europe,gender,Male,91,35,964.1300000000001
+full,Premium,Europe,gender,Other,96,47,1075.6200000000001
+full,Premium,Europe,device,Desktop,55,23,658.2500000000001
+full,Premium,Europe,device,Laptop,58,28,634.8100000000001
+full,Premium,Europe,device,Mobile,60,25,656.84
+full,Premium,Europe,device,TV,53,24,612.02
+full,Premium,Europe,device,Tablet,63,27,692.6600000000001
+full,Premium,Europe,payment_method,Credit Card,68,24,716.34
+full,Premium,Europe,payment_method,Crypto,56,25,720.3199999999999
+full,Premium,Europe,payment_method,Debit Card,56,21,631.76
+full,Premium,Europe,payment_method,Gift Card,57,35,582.44
+full,Premium,Europe,payment_method,PayPal,52,22,603.72
+full,Premium,Europe,favorite_genre,Action,41,18,424.59
+full,Premium,Europe,favorite_genre,Comedy,34,20,354.20000000000005
+full,Premium,Europe,favorite_genre,Documentary,35,12,393.56999999999994
+full,Premium,Europe,favorite_genre,Drama,47,20,611.93
+full,Premium,Europe,favorite_genre,Horror,40,16,402.49
+full,Premium,Europe,favorite_genre,Romance,42,22,571.4499999999999
+full,Premium,Europe,favorite_genre,Sci-Fi,50,19,496.3500000000001
+full,Premium,Europe,number_of_profiles,1,56,30,611.43
+full,Premium,Europe,number_of_profiles,2,55,32,516.3100000000001
+full,Premium,Europe,number_of_profiles,3,70,35,863.6700000000001
+full,Premium,Europe,number_of_profiles,4,55,16,589.68
+full,Premium,Europe,number_of_profiles,5,53,14,673.4900000000002
+full,Premium,North America,All,All,288,131,3508.46
+full,Premium,North America,gender,Female,94,45,926.35
+full,Premium,North America,gender,Male,100,42,1370.26
+full,Premium,North America,gender,Other,94,44,1211.8500000000001
+full,Premium,North America,device,Desktop,53,23,688.5
+full,Premium,North America,device,Laptop,53,18,688.8299999999999
+full,Premium,North America,device,Mobile,61,34,717.34
+full,Premium,North America,device,TV,51,23,635.98
+full,Premium,North America,device,Tablet,70,33,777.81
+full,Premium,North America,payment_method,Credit Card,55,16,809.39
+full,Premium,North America,payment_method,Crypto,67,48,734.1000000000001
+full,Premium,North America,payment_method,Debit Card,59,22,617.1099999999999
+full,Premium,North America,payment_method,Gift Card,55,23,767.5400000000001
+full,Premium,North America,payment_method,PayPal,52,22,580.3199999999999
+full,Premium,North America,favorite_genre,Action,36,20,324.47999999999996
+full,Premium,North America,favorite_genre,Comedy,35,14,593.04
+full,Premium,North America,favorite_genre,Documentary,39,16,413.66999999999996
+full,Premium,North America,favorite_genre,Drama,43,15,657.5
+full,Premium,North America,favorite_genre,Horror,45,24,469.09999999999997
+full,Premium,North America,favorite_genre,Romance,50,23,634.37
+full,Premium,North America,favorite_genre,Sci-Fi,40,19,416.3
+full,Premium,North America,number_of_profiles,1,52,29,642.0200000000001
+full,Premium,North America,number_of_profiles,2,50,37,489.26000000000005
+full,Premium,North America,number_of_profiles,3,54,26,843.31
+full,Premium,North America,number_of_profiles,4,67,18,925.9299999999998
+full,Premium,North America,number_of_profiles,5,65,21,607.94
+full,Premium,Oceania,All,All,273,131,3001.82
+full,Premium,Oceania,gender,Female,95,50,864.26
+full,Premium,Oceania,gender,Male,93,43,1175.5700000000004
+full,Premium,Oceania,gender,Other,85,38,961.9899999999999
+full,Premium,Oceania,device,Desktop,55,24,532.97
+full,Premium,Oceania,device,Laptop,50,20,553.4
+full,Premium,Oceania,device,Mobile,54,21,656.7799999999999
+full,Premium,Oceania,device,TV,52,36,524.6800000000001
+full,Premium,Oceania,device,Tablet,62,30,733.9899999999999
+full,Premium,Oceania,payment_method,Credit Card,45,15,558.0199999999999
+full,Premium,Oceania,payment_method,Crypto,58,39,639.47
+full,Premium,Oceania,payment_method,Debit Card,54,23,512.9399999999999
+full,Premium,Oceania,payment_method,Gift Card,66,33,773.3299999999999
+full,Premium,Oceania,payment_method,PayPal,50,21,518.06
+full,Premium,Oceania,favorite_genre,Action,32,12,352.71000000000004
+full,Premium,Oceania,favorite_genre,Comedy,36,17,488.73
+full,Premium,Oceania,favorite_genre,Documentary,41,23,379.44
+full,Premium,Oceania,favorite_genre,Drama,39,19,444.51
+full,Premium,Oceania,favorite_genre,Horror,40,21,426.26
+full,Premium,Oceania,favorite_genre,Romance,42,17,534.8399999999999
+full,Premium,Oceania,favorite_genre,Sci-Fi,43,22,375.33000000000004
+full,Premium,Oceania,number_of_profiles,1,54,28,570.7
+full,Premium,Oceania,number_of_profiles,2,58,32,544.27
+full,Premium,Oceania,number_of_profiles,3,58,34,720.8000000000001
+full,Premium,Oceania,number_of_profiles,4,46,16,481.2899999999999
+full,Premium,Oceania,number_of_profiles,5,57,21,684.7600000000001
+full,Premium,South America,All,All,302,133,3552.71
+full,Premium,South America,gender,Female,108,49,1180.6799999999998
+full,Premium,South America,gender,Male,95,37,1267.7200000000003
+full,Premium,South America,gender,Other,99,47,1104.3100000000002
+full,Premium,South America,device,Desktop,63,28,861.9100000000001
+full,Premium,South America,device,Laptop,59,26,613.5200000000001
+full,Premium,South America,device,Mobile,63,30,676.2000000000003
+full,Premium,South America,device,TV,60,25,668.3399999999999
+full,Premium,South America,device,Tablet,57,24,732.74
+full,Premium,South America,payment_method,Credit Card,60,22,733.6800000000001
+full,Premium,South America,payment_method,Crypto,67,35,804.98
+full,Premium,South America,payment_method,Debit Card,61,23,776.5999999999999
+full,Premium,South America,payment_method,Gift Card,55,29,650.86
+full,Premium,South America,payment_method,PayPal,59,24,586.59
+full,Premium,South America,favorite_genre,Action,45,22,624.63
+full,Premium,South America,favorite_genre,Comedy,36,19,342.33
+full,Premium,South America,favorite_genre,Documentary,42,18,414.7
+full,Premium,South America,favorite_genre,Drama,51,18,636.3199999999999
+full,Premium,South America,favorite_genre,Horror,47,25,493.89000000000004
+full,Premium,South America,favorite_genre,Romance,37,17,444.86999999999995
+full,Premium,South America,favorite_genre,Sci-Fi,44,14,595.97
+full,Premium,South America,number_of_profiles,1,70,38,854.9
+full,Premium,South America,number_of_profiles,2,47,26,604.8799999999999
+full,Premium,South America,number_of_profiles,3,56,32,649.3399999999999
+full,Premium,South America,number_of_profiles,4,71,17,807.74
+full,Premium,South America,number_of_profiles,5,58,20,635.85
+full,Standard,Africa,All,All,276,127,3191.29
+full,Standard,Africa,gender,Female,99,39,1162.82
+full,Standard,Africa,gender,Male,94,48,1109.98
+full,Standard,Africa,gender,Other,83,40,918.4900000000001
+full,Standard,Africa,device,Desktop,60,31,759.17
+full,Standard,Africa,device,Laptop,54,30,529.2600000000001
+full,Standard,Africa,device,Mobile,63,29,707.22
+full,Standard,Africa,device,TV,50,19,604.42
+full,Standard,Africa,device,Tablet,49,18,591.22
+full,Standard,Africa,payment_method,Credit Card,55,18,697.7300000000001
+full,Standard,Africa,payment_method,Crypto,61,36,719.6099999999999
+full,Standard,Africa,payment_method,Debit Card,47,20,501.01
+full,Standard,Africa,payment_method,Gift Card,53,27,707.9900000000001
+full,Standard,Africa,payment_method,PayPal,60,26,564.9500000000002
+full,Standard,Africa,favorite_genre,Action,24,11,334.90999999999997
+full,Standard,Africa,favorite_genre,Comedy,43,17,430.77
+full,Standard,Africa,favorite_genre,Documentary,49,16,643.66
+full,Standard,Africa,favorite_genre,Drama,39,23,330.61
+full,Standard,Africa,favorite_genre,Horror,41,23,460.18999999999994
+full,Standard,Africa,favorite_genre,Romance,45,23,512.12
+full,Standard,Africa,favorite_genre,Sci-Fi,35,14,479.0299999999999
+full,Standard,Africa,number_of_profiles,1,55,31,644.11
+full,Standard,Africa,number_of_profiles,2,38,20,334.14
+full,Standard,Africa,number_of_profiles,3,66,38,663.7000000000002
+full,Standard,Africa,number_of_profiles,4,54,18,721.9200000000001
+full,Standard,Africa,number_of_profiles,5,63,20,827.42
+full,Standard,Asia,All,All,282,137,3121.7799999999997
+full,Standard,Asia,gender,Female,88,43,1024.63
+full,Standard,Asia,gender,Male,96,46,1098.55
+full,Standard,Asia,gender,Other,98,48,998.6
+full,Standard,Asia,device,Desktop,53,24,625.7799999999999
+full,Standard,Asia,device,Laptop,61,30,668.57
+full,Standard,Asia,device,Mobile,45,23,478.92000000000013
+full,Standard,Asia,device,TV,66,36,684.1
+full,Standard,Asia,device,Tablet,57,24,664.4100000000001
+full,Standard,Asia,payment_method,Credit Card,57,21,696.15
+full,Standard,Asia,payment_method,Crypto,57,37,566.37
+full,Standard,Asia,payment_method,Debit Card,54,22,613.5999999999999
+full,Standard,Asia,payment_method,Gift Card,51,30,585.86
+full,Standard,Asia,payment_method,PayPal,63,27,659.8
+full,Standard,Asia,favorite_genre,Action,33,16,323.48
+full,Standard,Asia,favorite_genre,Comedy,44,23,494.99
+full,Standard,Asia,favorite_genre,Documentary,41,23,493.1
+full,Standard,Asia,favorite_genre,Drama,38,20,372.07
+full,Standard,Asia,favorite_genre,Horror,44,20,507.46
+full,Standard,Asia,favorite_genre,Romance,38,16,480.78
+full,Standard,Asia,favorite_genre,Sci-Fi,44,19,449.9
+full,Standard,Asia,number_of_profiles,1,65,39,604.53
+full,Standard,Asia,number_of_profiles,2,48,31,498.34
+full,Standard,Asia,number_of_profiles,3,71,36,914.3500000000001
+full,Standard,Asia,number_of_profiles,4,47,17,554.6699999999998
+full,Standard,Asia,number_of_profiles,5,51,14,549.89
+full,Standard,Europe,All,All,294,143,3212.1499999999996
+full,Standard,Europe,gender,Female,100,54,1178.7299999999998
+full,Standard,Europe,gender,Male,100,46,1014.6199999999999
+full,Standard,Europe,gender,Other,94,43,1018.8
+full,Standard,Europe,device,Desktop,51,27,573.28
+full,Standard,Europe,device,Laptop,68,35,691.7599999999999
+full,Standard,Europe,device,Mobile,54,20,756.6100000000001
+full,Standard,Europe,device,TV,57,27,650.13
+full,Standard,Europe,device,Tablet,64,34,540.3699999999999
+full,Standard,Europe,payment_method,Credit Card,52,17,604.55
+full,Standard,Europe,payment_method,Crypto,51,31,576.95
+full,Standard,Europe,payment_method,Debit Card,58,22,879.8199999999999
+full,Standard,Europe,payment_method,Gift Card,60,41,409.8500000000001
+full,Standard,Europe,payment_method,PayPal,73,32,740.98
+full,Standard,Europe,favorite_genre,Action,46,16,505.77000000000004
+full,Standard,Europe,favorite_genre,Comedy,41,21,501.9700000000001
+full,Standard,Europe,favorite_genre,Documentary,44,24,375.64000000000004
+full,Standard,Europe,favorite_genre,Drama,30,17,397.54
+full,Standard,Europe,favorite_genre,Horror,42,19,458.33
+full,Standard,Europe,favorite_genre,Romance,43,24,436.85999999999996
+full,Standard,Europe,favorite_genre,Sci-Fi,48,22,536.04
+full,Standard,Europe,number_of_profiles,1,60,38,651.78
+full,Standard,Europe,number_of_profiles,2,54,32,598.5100000000001
+full,Standard,Europe,number_of_profiles,3,57,37,666.79
+full,Standard,Europe,number_of_profiles,4,59,9,761.4000000000001
+full,Standard,Europe,number_of_profiles,5,64,27,533.67
+full,Standard,North America,All,All,273,112,3270.9199999999996
+full,Standard,North America,gender,Female,91,39,982.48
+full,Standard,North America,gender,Male,99,36,1239.1900000000003
+full,Standard,North America,gender,Other,83,37,1049.25
+full,Standard,North America,device,Desktop,61,26,755.0799999999999
+full,Standard,North America,device,Laptop,46,21,551.9699999999999
+full,Standard,North America,device,Mobile,55,23,704.0500000000002
+full,Standard,North America,device,TV,49,18,595.2199999999999
+full,Standard,North America,device,Tablet,62,24,664.6
+full,Standard,North America,payment_method,Credit Card,41,14,515.0999999999999
+full,Standard,North America,payment_method,Crypto,63,35,701.2699999999999
+full,Standard,North America,payment_method,Debit Card,58,21,616.39
+full,Standard,North America,payment_method,Gift Card,53,25,584.84
+full,Standard,North America,payment_method,PayPal,58,17,853.3199999999999
+full,Standard,North America,favorite_genre,Action,45,23,434.37
+full,Standard,North America,favorite_genre,Comedy,31,10,385.55000000000007
+full,Standard,North America,favorite_genre,Documentary,34,12,476.45
+full,Standard,North America,favorite_genre,Drama,38,15,553.0500000000001
+full,Standard,North America,favorite_genre,Horror,38,19,418.19
+full,Standard,North America,favorite_genre,Romance,41,16,388.54
+full,Standard,North America,favorite_genre,Sci-Fi,46,17,614.7699999999999
+full,Standard,North America,number_of_profiles,1,55,25,788.1999999999998
+full,Standard,North America,number_of_profiles,2,59,29,693.4200000000001
+full,Standard,North America,number_of_profiles,3,43,22,435.84
+full,Standard,North America,number_of_profiles,4,61,21,743.28
+full,Standard,North America,number_of_profiles,5,55,15,610.18
+full,Standard,Oceania,All,All,250,101,3146.68
+full,Standard,Oceania,gender,Female,78,28,1056.2399999999998
+full,Standard,Oceania,gender,Male,95,45,996.6899999999999
+full,Standard,Oceania,gender,Other,77,28,1093.75
+full,Standard,Oceania,device,Desktop,48,23,546.12
+full,Standard,Oceania,device,Laptop,49,19,651.47
+full,Standard,Oceania,device,Mobile,55,18,806.03
+full,Standard,Oceania,device,TV,39,14,504.65
+full,Standard,Oceania,device,Tablet,59,27,638.41
+full,Standard,Oceania,payment_method,Credit Card,41,21,461.13000000000005
+full,Standard,Oceania,payment_method,Crypto,44,18,552.93
+full,Standard,Oceania,payment_method,Debit Card,59,13,836.65
+full,Standard,Oceania,payment_method,Gift Card,59,31,643.53
+full,Standard,Oceania,payment_method,PayPal,47,18,652.4399999999998
+full,Standard,Oceania,favorite_genre,Action,38,20,509.79
+full,Standard,Oceania,favorite_genre,Comedy,33,15,347.71000000000004
+full,Standard,Oceania,favorite_genre,Documentary,39,19,470.77
+full,Standard,Oceania,favorite_genre,Drama,43,17,517.82
+full,Standard,Oceania,favorite_genre,Horror,36,12,545.84
+full,Standard,Oceania,favorite_genre,Romance,26,7,339.41999999999996
+full,Standard,Oceania,favorite_genre,Sci-Fi,35,11,415.33
+full,Standard,Oceania,number_of_profiles,1,56,32,527.3
+full,Standard,Oceania,number_of_profiles,2,51,24,710.72
+full,Standard,Oceania,number_of_profiles,3,51,24,687.89
+full,Standard,Oceania,number_of_profiles,4,49,11,723.68
+full,Standard,Oceania,number_of_profiles,5,43,10,497.09
+full,Standard,South America,All,All,271,128,3278.33
+full,Standard,South America,gender,Female,98,51,1124.94
+full,Standard,South America,gender,Male,97,47,1289.51
+full,Standard,South America,gender,Other,76,30,863.88
+full,Standard,South America,device,Desktop,49,14,738.4499999999999
+full,Standard,South America,device,Laptop,72,35,863.9300000000001
+full,Standard,South America,device,Mobile,58,31,767.5400000000001
+full,Standard,South America,device,TV,45,26,375.55000000000007
+full,Standard,South America,device,Tablet,47,22,532.86
+full,Standard,South America,payment_method,Credit Card,58,19,742.1800000000001
+full,Standard,South America,payment_method,Crypto,62,43,667.9599999999999
+full,Standard,South America,payment_method,Debit Card,61,25,787.37
+full,Standard,South America,payment_method,Gift Card,43,27,397.28000000000003
+full,Standard,South America,payment_method,PayPal,47,14,683.54
+full,Standard,South America,favorite_genre,Action,31,17,345.55
+full,Standard,South America,favorite_genre,Comedy,37,14,527.7700000000001
+full,Standard,South America,favorite_genre,Documentary,41,18,507.21999999999997
+full,Standard,South America,favorite_genre,Drama,42,25,427.36
+full,Standard,South America,favorite_genre,Horror,39,19,279.94
+full,Standard,South America,favorite_genre,Romance,40,14,669.73
+full,Standard,South America,favorite_genre,Sci-Fi,41,21,520.7600000000001
+full,Standard,South America,number_of_profiles,1,49,21,552.0799999999999
+full,Standard,South America,number_of_profiles,2,57,34,672.68
+full,Standard,South America,number_of_profiles,3,55,34,679.7700000000001
+full,Standard,South America,number_of_profiles,4,51,18,676.5300000000001
+full,Standard,South America,number_of_profiles,5,59,21,697.2699999999999
+training,Basic,Africa,All,All,202,119,2226.3500000000004
+training,Basic,Africa,gender,Female,81,46,823.6600000000001
+training,Basic,Africa,gender,Male,57,38,589.42
+training,Basic,Africa,gender,Other,64,35,813.27
+training,Basic,Africa,device,Desktop,35,22,423.5
+training,Basic,Africa,device,Laptop,31,19,388.37000000000006
+training,Basic,Africa,device,Mobile,48,24,553.8
+training,Basic,Africa,device,TV,47,26,498.86999999999995
+training,Basic,Africa,device,Tablet,41,28,361.81
+training,Basic,Africa,payment_method,Credit Card,37,20,439.79999999999995
+training,Basic,Africa,payment_method,Crypto,35,19,391.82
+training,Basic,Africa,payment_method,Debit Card,40,22,499.78999999999996
+training,Basic,Africa,payment_method,Gift Card,38,23,444.94
+training,Basic,Africa,payment_method,PayPal,52,35,450.0
+training,Basic,Africa,favorite_genre,Action,30,18,297.78
+training,Basic,Africa,favorite_genre,Comedy,41,18,526.11
+training,Basic,Africa,favorite_genre,Documentary,31,22,295.69
+training,Basic,Africa,favorite_genre,Drama,27,19,220.10000000000002
+training,Basic,Africa,favorite_genre,Horror,26,13,247.01999999999995
+training,Basic,Africa,favorite_genre,Romance,24,15,376.73999999999995
+training,Basic,Africa,favorite_genre,Sci-Fi,23,14,262.91
+training,Basic,Africa,number_of_profiles,1,41,25,535.57
+training,Basic,Africa,number_of_profiles,2,42,25,402.77000000000004
+training,Basic,Africa,number_of_profiles,3,40,27,343.28999999999996
+training,Basic,Africa,number_of_profiles,4,41,19,491.95000000000005
+training,Basic,Africa,number_of_profiles,5,38,23,452.77000000000004
+training,Basic,Asia,All,All,237,143,2641.91
+training,Basic,Asia,gender,Female,82,47,970.67
+training,Basic,Asia,gender,Male,68,43,796.67
+training,Basic,Asia,gender,Other,87,53,874.57
+training,Basic,Asia,device,Desktop,43,31,533.2100000000002
+training,Basic,Asia,device,Laptop,59,33,643.59
+training,Basic,Asia,device,Mobile,42,26,331.91999999999996
+training,Basic,Asia,device,TV,48,28,582.74
+training,Basic,Asia,device,Tablet,45,25,550.45
+training,Basic,Asia,payment_method,Credit Card,46,28,609.12
+training,Basic,Asia,payment_method,Crypto,49,33,454.72999999999996
+training,Basic,Asia,payment_method,Debit Card,49,26,503.79
+training,Basic,Asia,payment_method,Gift Card,43,28,529.5599999999998
+training,Basic,Asia,payment_method,PayPal,50,28,544.7099999999999
+training,Basic,Asia,favorite_genre,Action,30,20,282.15999999999997
+training,Basic,Asia,favorite_genre,Comedy,38,24,390.43999999999994
+training,Basic,Asia,favorite_genre,Documentary,29,18,531.02
+training,Basic,Asia,favorite_genre,Drama,31,19,363.26
+training,Basic,Asia,favorite_genre,Horror,39,26,287.68999999999994
+training,Basic,Asia,favorite_genre,Romance,39,16,527.82
+training,Basic,Asia,favorite_genre,Sci-Fi,31,20,259.52000000000004
+training,Basic,Asia,number_of_profiles,1,43,30,420.98
+training,Basic,Asia,number_of_profiles,2,58,32,679.84
+training,Basic,Asia,number_of_profiles,3,49,36,434.67
+training,Basic,Asia,number_of_profiles,4,51,23,678.86
+training,Basic,Asia,number_of_profiles,5,36,22,427.5600000000001
+training,Basic,Europe,All,All,231,143,2831.46
+training,Basic,Europe,gender,Female,75,49,927.9199999999998
+training,Basic,Europe,gender,Male,83,55,896.07
+training,Basic,Europe,gender,Other,73,39,1007.47
+training,Basic,Europe,device,Desktop,45,29,545.0200000000001
+training,Basic,Europe,device,Laptop,39,26,355.33000000000004
+training,Basic,Europe,device,Mobile,52,32,728.07
+training,Basic,Europe,device,TV,54,27,789.4199999999998
+training,Basic,Europe,device,Tablet,41,29,413.62
+training,Basic,Europe,payment_method,Credit Card,64,35,849.86
+training,Basic,Europe,payment_method,Crypto,40,26,473.75000000000006
+training,Basic,Europe,payment_method,Debit Card,38,23,542.09
+training,Basic,Europe,payment_method,Gift Card,37,25,379.4700000000001
+training,Basic,Europe,payment_method,PayPal,52,34,586.29
+training,Basic,Europe,favorite_genre,Action,34,22,416.55999999999995
+training,Basic,Europe,favorite_genre,Comedy,24,14,303.91999999999996
+training,Basic,Europe,favorite_genre,Documentary,27,18,345.69
+training,Basic,Europe,favorite_genre,Drama,39,23,418.60999999999996
+training,Basic,Europe,favorite_genre,Horror,34,23,415.84
+training,Basic,Europe,favorite_genre,Romance,31,21,390.94000000000005
+training,Basic,Europe,favorite_genre,Sci-Fi,42,22,539.9
+training,Basic,Europe,number_of_profiles,1,35,24,432.9
+training,Basic,Europe,number_of_profiles,2,60,40,709.8999999999999
+training,Basic,Europe,number_of_profiles,3,54,36,664.74
+training,Basic,Europe,number_of_profiles,4,41,19,518.3199999999999
+training,Basic,Europe,number_of_profiles,5,41,24,505.6
+training,Basic,North America,All,All,236,144,2774.74
+training,Basic,North America,gender,Female,87,51,910.15
+training,Basic,North America,gender,Male,74,49,893.0699999999999
+training,Basic,North America,gender,Other,75,44,971.5200000000001
+training,Basic,North America,device,Desktop,36,20,434.69
+training,Basic,North America,device,Laptop,48,33,569.4300000000001
+training,Basic,North America,device,Mobile,52,33,559.8
+training,Basic,North America,device,TV,44,27,568.97
+training,Basic,North America,device,Tablet,56,31,641.8499999999999
+training,Basic,North America,payment_method,Credit Card,45,26,582.89
+training,Basic,North America,payment_method,Crypto,35,20,419.44000000000005
+training,Basic,North America,payment_method,Debit Card,53,35,508.32
+training,Basic,North America,payment_method,Gift Card,49,31,624.87
+training,Basic,North America,payment_method,PayPal,54,32,639.22
+training,Basic,North America,favorite_genre,Action,42,24,412.92
+training,Basic,North America,favorite_genre,Comedy,39,24,496.5799999999999
+training,Basic,North America,favorite_genre,Documentary,36,21,399.34000000000003
+training,Basic,North America,favorite_genre,Drama,30,18,311.63000000000005
+training,Basic,North America,favorite_genre,Horror,30,21,373.49
+training,Basic,North America,favorite_genre,Romance,29,16,426.42999999999995
+training,Basic,North America,favorite_genre,Sci-Fi,30,20,354.3500000000001
+training,Basic,North America,number_of_profiles,1,42,30,409.97999999999996
+training,Basic,North America,number_of_profiles,2,53,29,518.87
+training,Basic,North America,number_of_profiles,3,40,26,553.62
+training,Basic,North America,number_of_profiles,4,50,28,628.5600000000002
+training,Basic,North America,number_of_profiles,5,51,31,663.7099999999999
+training,Basic,Oceania,All,All,189,116,2252.92
+training,Basic,Oceania,gender,Female,72,46,840.78
+training,Basic,Oceania,gender,Male,48,34,506.47999999999996
+training,Basic,Oceania,gender,Other,69,36,905.66
+training,Basic,Oceania,device,Desktop,35,20,511.84999999999997
+training,Basic,Oceania,device,Laptop,35,24,368.53999999999996
+training,Basic,Oceania,device,Mobile,36,26,319.59999999999997
+training,Basic,Oceania,device,TV,34,19,520.0799999999999
+training,Basic,Oceania,device,Tablet,49,27,532.85
+training,Basic,Oceania,payment_method,Credit Card,41,26,429.47
+training,Basic,Oceania,payment_method,Crypto,30,17,312.3
+training,Basic,Oceania,payment_method,Debit Card,48,27,607.16
+training,Basic,Oceania,payment_method,Gift Card,31,20,432.30000000000007
+training,Basic,Oceania,payment_method,PayPal,39,26,471.69000000000005
+training,Basic,Oceania,favorite_genre,Action,33,19,398.68
+training,Basic,Oceania,favorite_genre,Comedy,21,11,313.09
+training,Basic,Oceania,favorite_genre,Documentary,23,13,279.31
+training,Basic,Oceania,favorite_genre,Drama,29,21,354.01
+training,Basic,Oceania,favorite_genre,Horror,22,13,198.42000000000002
+training,Basic,Oceania,favorite_genre,Romance,35,22,407.90999999999997
+training,Basic,Oceania,favorite_genre,Sci-Fi,26,17,301.5
+training,Basic,Oceania,number_of_profiles,1,38,29,389.37000000000006
+training,Basic,Oceania,number_of_profiles,2,34,18,421.13999999999993
+training,Basic,Oceania,number_of_profiles,3,42,27,492.7
+training,Basic,Oceania,number_of_profiles,4,34,20,435.87
+training,Basic,Oceania,number_of_profiles,5,41,22,513.84
+training,Basic,South America,All,All,232,141,2706.67
+training,Basic,South America,gender,Female,82,46,1034.8200000000002
+training,Basic,South America,gender,Male,73,49,835.0300000000001
+training,Basic,South America,gender,Other,77,46,836.8199999999999
+training,Basic,South America,device,Desktop,32,17,453.6
+training,Basic,South America,device,Laptop,46,32,471.44
+training,Basic,South America,device,Mobile,50,27,618.24
+training,Basic,South America,device,TV,46,27,586.2800000000001
+training,Basic,South America,device,Tablet,58,38,577.11
+training,Basic,South America,payment_method,Credit Card,48,26,496.21000000000004
+training,Basic,South America,payment_method,Crypto,43,26,529.93
+training,Basic,South America,payment_method,Debit Card,41,28,415.05
+training,Basic,South America,payment_method,Gift Card,59,36,832.77
+training,Basic,South America,payment_method,PayPal,41,25,432.71
+training,Basic,South America,favorite_genre,Action,36,23,378.31
+training,Basic,South America,favorite_genre,Comedy,31,22,331.45000000000005
+training,Basic,South America,favorite_genre,Documentary,35,20,389.09000000000003
+training,Basic,South America,favorite_genre,Drama,33,18,484.48999999999995
+training,Basic,South America,favorite_genre,Horror,28,20,241.51999999999998
+training,Basic,South America,favorite_genre,Romance,39,22,487.71
+training,Basic,South America,favorite_genre,Sci-Fi,30,16,394.1
+training,Basic,South America,number_of_profiles,1,41,28,523.3900000000001
+training,Basic,South America,number_of_profiles,2,49,32,568.95
+training,Basic,South America,number_of_profiles,3,48,26,593.6800000000001
+training,Basic,South America,number_of_profiles,4,38,25,325.29
+training,Basic,South America,number_of_profiles,5,56,30,695.36
+training,Premium,Africa,All,All,204,81,2489.3600000000006
+training,Premium,Africa,gender,Female,61,25,734.79
+training,Premium,Africa,gender,Male,66,23,767.16
+training,Premium,Africa,gender,Other,77,33,987.4100000000001
+training,Premium,Africa,device,Desktop,42,15,500.34000000000003
+training,Premium,Africa,device,Laptop,39,15,548.5699999999999
+training,Premium,Africa,device,Mobile,36,17,474.23999999999995
+training,Premium,Africa,device,TV,50,20,603.74
+training,Premium,Africa,device,Tablet,37,14,362.47
+training,Premium,Africa,payment_method,Credit Card,36,12,373.9
+training,Premium,Africa,payment_method,Crypto,40,22,563.6
+training,Premium,Africa,payment_method,Debit Card,47,14,566.04
+training,Premium,Africa,payment_method,Gift Card,44,22,577.5699999999999
+training,Premium,Africa,payment_method,PayPal,37,11,408.25
+training,Premium,Africa,favorite_genre,Action,23,12,180.49000000000004
+training,Premium,Africa,favorite_genre,Comedy,27,10,351.42
+training,Premium,Africa,favorite_genre,Documentary,38,14,430.15000000000003
+training,Premium,Africa,favorite_genre,Drama,35,15,495.3299999999999
+training,Premium,Africa,favorite_genre,Horror,32,11,340.13
+training,Premium,Africa,favorite_genre,Romance,24,11,386.96
+training,Premium,Africa,favorite_genre,Sci-Fi,25,8,304.88
+training,Premium,Africa,number_of_profiles,1,32,12,377.22
+training,Premium,Africa,number_of_profiles,2,46,23,590.88
+training,Premium,Africa,number_of_profiles,3,36,19,439.26000000000005
+training,Premium,Africa,number_of_profiles,4,40,15,574.78
+training,Premium,Africa,number_of_profiles,5,50,12,507.21999999999997
+training,Premium,Asia,All,All,218,96,2515.7
+training,Premium,Asia,gender,Female,59,28,823.1599999999999
+training,Premium,Asia,gender,Male,81,32,767.5
+training,Premium,Asia,gender,Other,78,36,925.0400000000001
+training,Premium,Asia,device,Desktop,46,23,526.43
+training,Premium,Asia,device,Laptop,44,22,480.5
+training,Premium,Asia,device,Mobile,39,19,414.89000000000004
+training,Premium,Asia,device,TV,46,16,562.22
+training,Premium,Asia,device,Tablet,43,16,531.66
+training,Premium,Asia,payment_method,Credit Card,33,10,363.87
+training,Premium,Asia,payment_method,Crypto,47,27,587.59
+training,Premium,Asia,payment_method,Debit Card,49,14,677.4600000000002
+training,Premium,Asia,payment_method,Gift Card,43,28,360.47
+training,Premium,Asia,payment_method,PayPal,46,17,526.3100000000001
+training,Premium,Asia,favorite_genre,Action,29,12,299.82
+training,Premium,Asia,favorite_genre,Comedy,35,16,417.41
+training,Premium,Asia,favorite_genre,Documentary,27,15,257.68
+training,Premium,Asia,favorite_genre,Drama,33,18,339.39
+training,Premium,Asia,favorite_genre,Horror,36,13,479.51000000000005
+training,Premium,Asia,favorite_genre,Romance,26,12,306.09
+training,Premium,Asia,favorite_genre,Sci-Fi,32,10,415.8
+training,Premium,Asia,number_of_profiles,1,33,20,447.21999999999997
+training,Premium,Asia,number_of_profiles,2,50,26,489.07
+training,Premium,Asia,number_of_profiles,3,33,18,365.8
+training,Premium,Asia,number_of_profiles,4,49,13,612.12
+training,Premium,Asia,number_of_profiles,5,53,19,601.4899999999999
+training,Premium,Europe,All,All,213,102,2281.3199999999997
+training,Premium,Europe,gender,Female,74,35,881.62
+training,Premium,Europe,gender,Male,62,26,591.1800000000001
+training,Premium,Europe,gender,Other,77,41,808.52
+training,Premium,Europe,device,Desktop,38,17,423.2900000000001
+training,Premium,Europe,device,Laptop,45,24,429.04
+training,Premium,Europe,device,Mobile,45,21,495.98
+training,Premium,Europe,device,TV,37,20,395.61999999999995
+training,Premium,Europe,device,Tablet,48,20,537.39
+training,Premium,Europe,payment_method,Credit Card,51,22,463.21999999999997
+training,Premium,Europe,payment_method,Crypto,38,17,510.65999999999997
+training,Premium,Europe,payment_method,Debit Card,41,16,391.54
+training,Premium,Europe,payment_method,Gift Card,43,30,455.94000000000005
+training,Premium,Europe,payment_method,PayPal,40,17,459.96000000000004
+training,Premium,Europe,favorite_genre,Action,29,16,215.92999999999998
+training,Premium,Europe,favorite_genre,Comedy,28,16,326.77
+training,Premium,Europe,favorite_genre,Documentary,30,10,343.22
+training,Premium,Europe,favorite_genre,Drama,33,19,328.92
+training,Premium,Europe,favorite_genre,Horror,29,11,310.63
+training,Premium,Europe,favorite_genre,Romance,31,16,441.1500000000001
+training,Premium,Europe,favorite_genre,Sci-Fi,33,14,314.7
+training,Premium,Europe,number_of_profiles,1,43,23,466.03000000000003
+training,Premium,Europe,number_of_profiles,2,38,26,319.27000000000004
+training,Premium,Europe,number_of_profiles,3,50,28,560.47
+training,Premium,Europe,number_of_profiles,4,43,15,430.23999999999995
+training,Premium,Europe,number_of_profiles,5,39,10,505.31000000000006
+training,Premium,North America,All,All,233,106,2770.3900000000003
+training,Premium,North America,gender,Female,70,32,636.2099999999999
+training,Premium,North America,gender,Male,86,37,1183.23
+training,Premium,North America,gender,Other,77,37,950.95
+training,Premium,North America,device,Desktop,40,18,483.76
+training,Premium,North America,device,Laptop,42,12,597.76
+training,Premium,North America,device,Mobile,50,28,547.7099999999999
+training,Premium,North America,device,TV,44,20,553.4200000000001
+training,Premium,North America,device,Tablet,57,28,587.74
+training,Premium,North America,payment_method,Credit Card,44,13,595.2
+training,Premium,North America,payment_method,Crypto,59,42,641.85
+training,Premium,North America,payment_method,Debit Card,45,15,460.18000000000006
+training,Premium,North America,payment_method,Gift Card,39,16,541.1800000000002
+training,Premium,North America,payment_method,PayPal,46,20,531.9799999999999
+training,Premium,North America,favorite_genre,Action,27,16,203.47
+training,Premium,North America,favorite_genre,Comedy,29,12,502.12
+training,Premium,North America,favorite_genre,Documentary,31,13,314.68000000000006
+training,Premium,North America,favorite_genre,Drama,36,14,471.28
+training,Premium,North America,favorite_genre,Horror,37,19,392.08000000000004
+training,Premium,North America,favorite_genre,Romance,42,19,523.2099999999999
+training,Premium,North America,favorite_genre,Sci-Fi,31,13,363.55000000000007
+training,Premium,North America,number_of_profiles,1,42,22,540.09
+training,Premium,North America,number_of_profiles,2,39,32,360.72
+training,Premium,North America,number_of_profiles,3,44,21,667.73
+training,Premium,North America,number_of_profiles,4,54,14,763.8900000000001
+training,Premium,North America,number_of_profiles,5,54,17,437.96000000000004
+training,Premium,Oceania,All,All,230,112,2433.33
+training,Premium,Oceania,gender,Female,80,41,730.76
+training,Premium,Oceania,gender,Male,76,36,888.0300000000001
+training,Premium,Oceania,gender,Other,74,35,814.54
+training,Premium,Oceania,device,Desktop,47,19,445.72
+training,Premium,Oceania,device,Laptop,42,18,459.2
+training,Premium,Oceania,device,Mobile,47,19,549.0999999999999
+training,Premium,Oceania,device,TV,39,29,342.28000000000003
+training,Premium,Oceania,device,Tablet,55,27,637.0299999999999
+training,Premium,Oceania,payment_method,Credit Card,40,13,465.62
+training,Premium,Oceania,payment_method,Crypto,49,33,590.13
+training,Premium,Oceania,payment_method,Debit Card,45,20,387.21000000000004
+training,Premium,Oceania,payment_method,Gift Card,56,28,594.6
+training,Premium,Oceania,payment_method,PayPal,40,18,395.77
+training,Premium,Oceania,favorite_genre,Action,24,12,238.54000000000002
+training,Premium,Oceania,favorite_genre,Comedy,32,15,409.25
+training,Premium,Oceania,favorite_genre,Documentary,35,20,282.1
+training,Premium,Oceania,favorite_genre,Drama,31,15,345.68
+training,Premium,Oceania,favorite_genre,Horror,30,16,308.4200000000001
+training,Premium,Oceania,favorite_genre,Romance,38,15,483.15
+training,Premium,Oceania,favorite_genre,Sci-Fi,40,19,366.19
+training,Premium,Oceania,number_of_profiles,1,48,25,548.76
+training,Premium,Oceania,number_of_profiles,2,46,26,406.9200000000001
+training,Premium,Oceania,number_of_profiles,3,47,28,543.9100000000002
+training,Premium,Oceania,number_of_profiles,4,39,14,385.52
+training,Premium,Oceania,number_of_profiles,5,50,19,548.22
+training,Premium,South America,All,All,257,115,3044.83
+training,Premium,South America,gender,Female,94,41,1042.28
+training,Premium,South America,gender,Male,80,30,1077.11
+training,Premium,South America,gender,Other,83,44,925.44
+training,Premium,South America,device,Desktop,52,22,712.87
+training,Premium,South America,device,Laptop,48,23,521.56
+training,Premium,South America,device,Mobile,55,27,609.8200000000002
+training,Premium,South America,device,TV,55,24,623.1600000000001
+training,Premium,South America,device,Tablet,47,19,577.42
+training,Premium,South America,payment_method,Credit Card,50,19,589.93
+training,Premium,South America,payment_method,Crypto,55,30,687.13
+training,Premium,South America,payment_method,Debit Card,52,20,675.34
+training,Premium,South America,payment_method,Gift Card,48,25,581.63
+training,Premium,South America,payment_method,PayPal,52,21,510.8
+training,Premium,South America,favorite_genre,Action,37,19,546.8
+training,Premium,South America,favorite_genre,Comedy,34,19,327.69
+training,Premium,South America,favorite_genre,Documentary,35,12,366.27000000000004
+training,Premium,South America,favorite_genre,Drama,44,17,542.45
+training,Premium,South America,favorite_genre,Horror,38,20,373.56999999999994
+training,Premium,South America,favorite_genre,Romance,32,15,369.37
+training,Premium,South America,favorite_genre,Sci-Fi,37,13,518.6800000000001
+training,Premium,South America,number_of_profiles,1,61,35,711.1999999999999
+training,Premium,South America,number_of_profiles,2,40,22,550.6800000000001
+training,Premium,South America,number_of_profiles,3,47,27,570.01
+training,Premium,South America,number_of_profiles,4,57,13,697.7600000000001
+training,Premium,South America,number_of_profiles,5,52,18,515.18
+training,Standard,Africa,All,All,224,103,2586.2999999999997
+training,Standard,Africa,gender,Female,77,31,859.06
+training,Standard,Africa,gender,Male,72,37,880.5999999999999
+training,Standard,Africa,gender,Other,75,35,846.64
+training,Standard,Africa,device,Desktop,51,24,695.34
+training,Standard,Africa,device,Laptop,40,27,304.76
+training,Standard,Africa,device,Mobile,49,22,568.15
+training,Standard,Africa,device,TV,45,17,534.51
+training,Standard,Africa,device,Tablet,39,13,483.54
+training,Standard,Africa,payment_method,Credit Card,45,12,582.3000000000001
+training,Standard,Africa,payment_method,Crypto,49,29,610.5799999999999
+training,Standard,Africa,payment_method,Debit Card,39,17,380.23999999999995
+training,Standard,Africa,payment_method,Gift Card,45,24,562.9
+training,Standard,Africa,payment_method,PayPal,46,21,450.28000000000003
+training,Standard,Africa,favorite_genre,Action,19,8,306.32
+training,Standard,Africa,favorite_genre,Comedy,33,14,325.2199999999999
+training,Standard,Africa,favorite_genre,Documentary,43,14,521.12
+training,Standard,Africa,favorite_genre,Drama,34,20,284.66
+training,Standard,Africa,favorite_genre,Horror,36,21,377.84
+training,Standard,Africa,favorite_genre,Romance,32,16,357.55999999999995
+training,Standard,Africa,favorite_genre,Sci-Fi,27,10,413.58
+training,Standard,Africa,number_of_profiles,1,41,23,498.44
+training,Standard,Africa,number_of_profiles,2,35,18,309.53999999999996
+training,Standard,Africa,number_of_profiles,3,55,33,507.0299999999999
+training,Standard,Africa,number_of_profiles,4,43,14,599.89
+training,Standard,Africa,number_of_profiles,5,50,15,671.4
+training,Standard,Asia,All,All,236,115,2598.7000000000003
+training,Standard,Asia,gender,Female,74,38,872.02
+training,Standard,Asia,gender,Male,79,36,961.62
+training,Standard,Asia,gender,Other,83,41,765.06
+training,Standard,Asia,device,Desktop,43,18,501.84999999999997
+training,Standard,Asia,device,Laptop,55,26,641.3099999999998
+training,Standard,Asia,device,Mobile,37,19,388.70000000000005
+training,Standard,Asia,device,TV,55,31,546.53
+training,Standard,Asia,device,Tablet,46,21,520.31
+training,Standard,Asia,payment_method,Credit Card,44,17,517.26
+training,Standard,Asia,payment_method,Crypto,47,31,465.46999999999997
+training,Standard,Asia,payment_method,Debit Card,47,19,496.49000000000007
+training,Standard,Asia,payment_method,Gift Card,43,24,509.54
+training,Standard,Asia,payment_method,PayPal,55,24,609.9399999999999
+training,Standard,Asia,favorite_genre,Action,30,15,276.22
+training,Standard,Asia,favorite_genre,Comedy,38,19,419.30999999999995
+training,Standard,Asia,favorite_genre,Documentary,32,19,332.81
+training,Standard,Asia,favorite_genre,Drama,30,15,308.09000000000003
+training,Standard,Asia,favorite_genre,Horror,38,18,421.77
+training,Standard,Asia,favorite_genre,Romance,31,12,432.0699999999999
+training,Standard,Asia,favorite_genre,Sci-Fi,37,17,408.43
+training,Standard,Asia,number_of_profiles,1,56,34,525.88
+training,Standard,Asia,number_of_profiles,2,36,22,401.59000000000003
+training,Standard,Asia,number_of_profiles,3,60,32,774.9
+training,Standard,Asia,number_of_profiles,4,42,16,472.86
+training,Standard,Asia,number_of_profiles,5,42,11,423.47
+training,Standard,Europe,All,All,231,107,2733.8499999999995
+training,Standard,Europe,gender,Female,79,37,1070.7099999999996
+training,Standard,Europe,gender,Male,76,34,823.13
+training,Standard,Europe,gender,Other,76,36,840.01
+training,Standard,Europe,device,Desktop,40,20,520.96
+training,Standard,Europe,device,Laptop,56,28,590.63
+training,Standard,Europe,device,Mobile,46,16,670.5200000000002
+training,Standard,Europe,device,TV,39,18,489.99
+training,Standard,Europe,device,Tablet,50,25,461.75000000000006
+training,Standard,Europe,payment_method,Credit Card,39,12,493.09999999999997
+training,Standard,Europe,payment_method,Crypto,42,25,484.74999999999994
+training,Standard,Europe,payment_method,Debit Card,44,15,764.6299999999999
+training,Standard,Europe,payment_method,Gift Card,50,32,374.67999999999995
+training,Standard,Europe,payment_method,PayPal,56,23,616.69
+training,Standard,Europe,favorite_genre,Action,34,11,400.02
+training,Standard,Europe,favorite_genre,Comedy,35,16,457.28999999999996
+training,Standard,Europe,favorite_genre,Documentary,35,19,336.19999999999993
+training,Standard,Europe,favorite_genre,Drama,21,10,325.89
+training,Standard,Europe,favorite_genre,Horror,37,17,403.6499999999999
+training,Standard,Europe,favorite_genre,Romance,32,15,388.12
+training,Standard,Europe,favorite_genre,Sci-Fi,37,19,422.6799999999999
+training,Standard,Europe,number_of_profiles,1,48,31,547.45
+training,Standard,Europe,number_of_profiles,2,40,21,453.34
+training,Standard,Europe,number_of_profiles,3,43,25,603.17
+training,Standard,Europe,number_of_profiles,4,46,6,663.62
+training,Standard,Europe,number_of_profiles,5,54,24,466.2699999999999
+training,Standard,North America,All,All,218,89,2618.7
+training,Standard,North America,gender,Female,78,31,864.7999999999998
+training,Standard,North America,gender,Male,75,29,1026.23
+training,Standard,North America,gender,Other,65,29,727.67
+training,Standard,North America,device,Desktop,48,21,643.24
+training,Standard,North America,device,Laptop,36,16,491.45000000000005
+training,Standard,North America,device,Mobile,45,19,493.51000000000005
+training,Standard,North America,device,TV,35,11,438.39000000000004
+training,Standard,North America,device,Tablet,54,22,552.1099999999999
+training,Standard,North America,payment_method,Credit Card,33,11,422.68
+training,Standard,North America,payment_method,Crypto,45,25,485.66999999999996
+training,Standard,North America,payment_method,Debit Card,49,19,560.33
+training,Standard,North America,payment_method,Gift Card,42,19,472.40000000000003
+training,Standard,North America,payment_method,PayPal,49,15,677.62
+training,Standard,North America,favorite_genre,Action,37,19,371.85
+training,Standard,North America,favorite_genre,Comedy,27,10,325.72
+training,Standard,North America,favorite_genre,Documentary,28,8,393.82000000000005
+training,Standard,North America,favorite_genre,Drama,34,14,520.8399999999999
+training,Standard,North America,favorite_genre,Horror,24,10,269.29999999999995
+training,Standard,North America,favorite_genre,Romance,33,13,307.98
+training,Standard,North America,favorite_genre,Sci-Fi,35,15,429.19000000000005
+training,Standard,North America,number_of_profiles,1,45,20,678.2499999999999
+training,Standard,North America,number_of_profiles,2,45,24,543.9100000000001
+training,Standard,North America,number_of_profiles,3,36,17,313.51
+training,Standard,North America,number_of_profiles,4,49,17,590.05
+training,Standard,North America,number_of_profiles,5,43,11,492.98
+training,Standard,Oceania,All,All,195,78,2316.3599999999997
+training,Standard,Oceania,gender,Female,58,22,723.39
+training,Standard,Oceania,gender,Male,75,32,845.93
+training,Standard,Oceania,gender,Other,62,24,747.04
+training,Standard,Oceania,device,Desktop,35,16,416.42999999999995
+training,Standard,Oceania,device,Laptop,38,13,507.71000000000004
+training,Standard,Oceania,device,Mobile,45,16,582.6800000000001
+training,Standard,Oceania,device,TV,31,12,315.97
+training,Standard,Oceania,device,Tablet,46,21,493.57
+training,Standard,Oceania,payment_method,Credit Card,34,18,370.10999999999996
+training,Standard,Oceania,payment_method,Crypto,34,12,411.97
+training,Standard,Oceania,payment_method,Debit Card,47,11,645.35
+training,Standard,Oceania,payment_method,Gift Card,44,23,478.87
+training,Standard,Oceania,payment_method,PayPal,36,14,410.05999999999995
+training,Standard,Oceania,favorite_genre,Action,27,16,283.53999999999996
+training,Standard,Oceania,favorite_genre,Comedy,27,10,293.60999999999996
+training,Standard,Oceania,favorite_genre,Documentary,31,16,361.45000000000005
+training,Standard,Oceania,favorite_genre,Drama,34,14,429.39
+training,Standard,Oceania,favorite_genre,Horror,27,11,248.96000000000004
+training,Standard,Oceania,favorite_genre,Romance,20,4,313.71000000000004
+training,Standard,Oceania,favorite_genre,Sci-Fi,29,7,385.7
+training,Standard,Oceania,number_of_profiles,1,44,25,418.69000000000005
+training,Standard,Oceania,number_of_profiles,2,35,17,398.75
+training,Standard,Oceania,number_of_profiles,3,41,21,537.6700000000001
+training,Standard,Oceania,number_of_profiles,4,36,8,483.07
+training,Standard,Oceania,number_of_profiles,5,39,7,478.18
+training,Standard,South America,All,All,214,102,2540.6899999999996
+training,Standard,South America,gender,Female,84,45,968.9499999999999
+training,Standard,South America,gender,Male,76,38,891.0300000000001
+training,Standard,South America,gender,Other,54,19,680.71
+training,Standard,South America,device,Desktop,38,14,471.97999999999996
+training,Standard,South America,device,Laptop,58,26,751.7700000000001
+training,Standard,South America,device,Mobile,42,21,544.9
+training,Standard,South America,device,TV,38,22,319.21000000000004
+training,Standard,South America,device,Tablet,38,19,452.8299999999999
+training,Standard,South America,payment_method,Credit Card,47,14,655.4999999999999
+training,Standard,South America,payment_method,Crypto,51,35,564.9100000000001
+training,Standard,South America,payment_method,Debit Card,44,19,522.5500000000001
+training,Standard,South America,payment_method,Gift Card,35,23,306.7700000000001
+training,Standard,South America,payment_method,PayPal,37,11,490.96000000000004
+training,Standard,South America,favorite_genre,Action,25,16,266.94
+training,Standard,South America,favorite_genre,Comedy,27,11,387.7199999999999
+training,Standard,South America,favorite_genre,Documentary,33,13,436.32
+training,Standard,South America,favorite_genre,Drama,34,20,372.35
+training,Standard,South America,favorite_genre,Horror,34,16,244.89999999999998
+training,Standard,South America,favorite_genre,Romance,27,9,387.5
+training,Standard,South America,favorite_genre,Sci-Fi,34,17,444.9599999999999
+training,Standard,South America,number_of_profiles,1,43,19,445.31
+training,Standard,South America,number_of_profiles,2,45,27,575.8900000000003
+training,Standard,South America,number_of_profiles,3,43,25,558.38
+training,Standard,South America,number_of_profiles,4,39,15,483.94000000000005
+training,Standard,South America,number_of_profiles,5,44,16,477.1700000000001

@@ -1,0 +1,51 @@
+{
+  "python_version": "3.13.18",
+  "package_versions": {
+    "scikit-learn": "1.6.1",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "joblib": "1.6.0"
+  },
+  "prediction_feature_order": [
+    "age",
+    "watch_hours",
+    "last_login_days",
+    "number_of_profiles",
+    "gender",
+    "subscription_type",
+    "region",
+    "device",
+    "payment_method",
+    "favorite_genre"
+  ],
+  "numeric_features": [
+    "age",
+    "watch_hours",
+    "last_login_days",
+    "number_of_profiles"
+  ],
+  "categorical_features": [
+    "gender",
+    "subscription_type",
+    "region",
+    "device",
+    "payment_method",
+    "favorite_genre"
+  ],
+  "selected_predictive_model": "Random Forest",
+  "working_target_coding": {
+    "0": "Not churned",
+    "1": "Churned"
+  },
+  "cluster_count": 7,
+  "limitations": [
+    "Dataset source and Netflix authenticity are unverified.",
+    "Churn definition, prediction horizon and feature timing are unverified.",
+    "Reported performance measures retrospective classification.",
+    "Predicted probabilities have not been validated for calibration.",
+    "Clusters are exploratory and overlap.",
+    "Removing customer_id does not guarantee full anonymisation.",
+    "These assets are not a complete Streamlit application."
+  ]
+}

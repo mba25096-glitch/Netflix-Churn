@@ -1,0 +1,71 @@
+{
+  "numeric": {
+    "age": {
+      "min": 18,
+      "max": 70,
+      "default": 44,
+      "step": 1
+    },
+    "watch_hours": {
+      "min": 0.01,
+      "max": 101.06,
+      "default": 8.075,
+      "step": 0.1
+    },
+    "last_login_days": {
+      "min": 0,
+      "max": 60,
+      "default": 30,
+      "step": 1
+    },
+    "number_of_profiles": {
+      "min": 1,
+      "max": 5,
+      "default": 3,
+      "step": 1
+    }
+  },
+  "categorical": {
+    "gender": [
+      "Female",
+      "Male",
+      "Other"
+    ],
+    "subscription_type": [
+      "Basic",
+      "Premium",
+      "Standard"
+    ],
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "device": [
+      "Desktop",
+      "Laptop",
+      "Mobile",
+      "TV",
+      "Tablet"
+    ],
+    "payment_method": [
+      "Credit Card",
+      "Crypto",
+      "Debit Card",
+      "Gift Card",
+      "PayPal"
+    ],
+    "favorite_genre": [
+      "Action",
+      "Comedy",
+      "Documentary",
+      "Drama",
+      "Horror",
+      "Romance",
+      "Sci-Fi"
+    ]
+  }
+}
